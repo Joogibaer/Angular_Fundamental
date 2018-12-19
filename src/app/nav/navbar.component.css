@@ -1,0 +1,9 @@
+.nav.navbar-nav {font-size: 15px;}
+#searchForm {margin-right: 100px}
+@media (max-width: 1200px) {#searchForm {display:none}}
+.navbar-nav > li > a.active { color: #f97924;}
+li > a.active { color: #F97924; }
+li > a.active { font: bold; }
+test { color: red; }
+.welcome {color:red;}
+h1 {font:bold;}
